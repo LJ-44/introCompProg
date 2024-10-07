@@ -10,5 +10,5 @@ for char in word:
         password += replacements[char]
     else:
         password += char
-password += "!"
+password += "!!!"
 print(password)
